@@ -4,7 +4,8 @@
   "description": "Mural de avisos feito com node express para estudos, seguindo conteúdo do @progrbr",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "André Stanlley",
